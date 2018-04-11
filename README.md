@@ -13,13 +13,13 @@ Java game demo
 
 
 
-
+***
 Artist: tjt5555
 
 Programer: toy9986619 (Takus)
 
 音效及配樂是從CC授權的網站下載使用
-
+***
 
 
 Last Edit: 2016/06/08
